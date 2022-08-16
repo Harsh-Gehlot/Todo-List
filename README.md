@@ -2,5 +2,4 @@
 
 Todo list with register/login, create, update, delete and search functionality.
 
-<h3> Login </h3>
-![alt text](https://github.com/Harsh-Gehlot/Todo-List/blob/main/image/login.JPG?raw=true)
+
